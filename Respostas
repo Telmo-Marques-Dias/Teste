@@ -1,0 +1,15 @@
+Teste Parte 1 
+
+1.Formando,Turma,Curso 
+
+2.Formando:ID,Nome,Nºde identificação, Data de nascimento 
+
+    Turma: ID, Designação da turma, Data de criação 
+
+    Curso: ID, Nome, Data de inicio, Carga horaria 
+
+3.Entre formando e turma é uma relação de um para muitos, em relação a turma e curso é uma relação de muitos para muitos 
+
+4.a.IDFormando,IDTurma,IDCurso 
+
+4.b.IDTurma,IDCurso 
